@@ -17,7 +17,7 @@ hs.src = ('//s10.histats.com/js15_as.js');
 
 
 ///// CSS /////
-document.write("<link media='all' href='https://vox.my.id/theme/phtm/style.css' rel='stylesheet' />");
+document.write("<link media='all' href='https://amd.my.id/style.css' rel='stylesheet' />");
 
 ///// Canonical /////
 document.write('<link rel="canonical" href="' + window.location.href + '" />');
