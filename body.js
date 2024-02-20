@@ -3,7 +3,7 @@ document.write('<div style="text-align:center;display:block;max-width:729px;heig
 
 //Paste Iklan Disini
 
-document.write('<script type="text/javascript" src="https://xss.my.id/ads/banner-loading.js"><\/script>');
+document.write('<script type="text/javascript" src="https://amd.my.id/ads/baner.js"><\/script>');
 
 // Batas Iklan
 
