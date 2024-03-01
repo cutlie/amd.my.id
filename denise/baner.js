@@ -1,4 +1,3 @@
-
 	atOptions = {
 		'key' : '93d260bb1e8c6edf7054c82191661f05',
 		'format' : 'iframe',
