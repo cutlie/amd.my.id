@@ -1,5 +1,5 @@
 ///// Histats /////
-document.write('<img alt="stats" src="//sstatic1.histats.com/0.gif?4845975&101"width="0" height="0"/>');
+document.write('<img alt="stats" src="//sstatic1.histats.com/0.gif?4864244&101"width="0" height="0"/>');
 
 ///// GA Analytics /////
 
